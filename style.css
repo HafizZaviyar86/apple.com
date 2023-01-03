@@ -1,0 +1,115 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: aliceblue;
+}
+.container{
+    width: 79pc;
+    height: 700px;
+    background-color: #e6e6e6;
+    background-image: url(./hero_startframe__db11rsyn9dyu_large.jpg);
+    
+    background size: cover;
+}
+.pehli{
+    background-color:#242321 ;
+    height:35px;
+    padding-top: 23px;
+    color: white;
+}
+.nav-one #u li{
+    display: inline;
+    padding-top: 60px;
+    margin-left: 75px;
+}
+.fit {
+    text-align: center;
+    padding-top: 152px;
+}
+.button{
+    text-align: center;
+    
+    border-radius: 50px;
+}
+.fit2{
+    padding-left: 250px;
+    size: 100px;
+    display: flex;
+    float: ;
+
+}
+.fit3{
+    padding-left: 700px;
+    size: 100px;
+    padding-bottom: 80px;
+    display: flex;
+    float: left;
+
+    
+}
+.class2{
+    background-image: url(./promo_iphone14__b9mz75yhy02u_small.jpg);
+    height: 500px;
+    width: 45%;
+    display: flex;
+    text-align: center;
+    float: left;
+}
+
+.class3{
+    background-image: url(./promo_apple_watch_series_8__ch7rexplmihe_small\ \(1\).jpg);
+    height: 500px;
+    width: 45%;
+    display: flex;
+    padding-left: 70px;
+    text-align: right;
+    float: right;
+    
+}
+
+.order{ 
+    background-color: rgb(232, 230, 230);
+    height: 500px;
+    
+
+    
+
+
+}
+.order ol{
+    padding-left: 100px;
+    padding-top: 50px;
+    padding-right: 80px;
+    color: #8c8787;
+}
+.order p{
+    padding-left: 100px;
+    
+    padding-right: 80px;
+    color: #8c8787;
+}
+.order hr{
+    padding-left: 100px;
+    
+    padding-right: 80px;
+    color: #8c8787;
+}
+.order1st{
+   
+   
+   float: right;
+   
+}
+.order1st li  p{
+    
+    float: right;
+    
+}
+
+
+
+
+
+    
